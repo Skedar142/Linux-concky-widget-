@@ -141,3 +141,7 @@ chmod +x setup.sh
 ## 📝 License
 
 This project is open source. Feel free to use, modify, and share.
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b3880579-0afc-43b1-9f96-cf6a76f9a899" />
+
